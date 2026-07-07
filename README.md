@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nguyen Huu Danh
 
-<!--
-**danhreal163/danhreal163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I am a student at the University of Information Technology (UIT), with a strong focus on Integrated Circuit (IC) Design. I enjoy bridging the gap between low-level hardware logic and high-level software optimization.
 
-Here are some ideas to get you started:
+*   🔭 **Currently studying:** Advanced Data Structures & Algorithms and Digital Logic Design.
+*   🌱 **Currently learning:** Hardware Description Languages and improving my English communication.
+*   🎯 **Future Goals:** Pursuing a Master's degree in Taiwan via the MOE scholarship program.
+*   ⚡ **Interests:** Solving complex mathematical optimization problems, memory management, and exploring quantum computing fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+*   **Languages:** C++, Verilog
+*   **Hardware Design & Simulation:** Quartus II, Visual Studio
+*   **Core Concepts:** Finite State Machines (FSM), Karnaugh Maps, Logic Circuit Optimization
+*   **Productivity:** GitHub Copilot, Cloud/AI Services
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danhreal163&show_icons=true&theme=tokyonight)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhreal163&layout=compact&theme=tokyonight)
+
+### 📫 How to reach me
+*   **Email:** [danhreal163@gmail.com]
+*   **LinkedIn / Portfolio:** [https://guns.lol/drealr]
