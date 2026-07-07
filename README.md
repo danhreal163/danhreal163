@@ -9,12 +9,7 @@ I am a student at the University of Information Technology (UIT), with a strong 
 *   ⚡ **Interests:** Solving complex mathematical optimization problems, memory management, and exploring quantum computing fundamentals.
 
 ### 🛠️ Tech Stack & Tools
-*   **Languages:**
-*   <p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=siemens&logoColor=white" alt="Verilog" />
-  <img src="https://img.shields.io/badge/Quartus_II-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus II" />
-</p>
+*   **Languages:** C++, Verilog
 *   **Hardware Design & Simulation:** Quartus II, Visual Studio
 *   **Core Concepts:** Finite State Machines (FSM), Karnaugh Maps, Logic Circuit Optimization
 *   **Productivity:** GitHub Copilot, Cloud/AI Services
