@@ -5,7 +5,6 @@ I am a student at the University of Information Technology (UIT), with a strong 
 
 *   🔭 **Currently studying:** Advanced Data Structures & Algorithms and Digital Logic Design.
 *   🌱 **Currently learning:** Hardware Description Languages and improving my English communication.
-*   🎯 **Future Goals:** Pursuing a Master's degree in Taiwan via the MOE scholarship program.
 *   ⚡ **Interests:** Solving complex mathematical optimization problems, memory management, and exploring quantum computing fundamentals.
 
 ### 🛠️ Tech Stack & Tools
