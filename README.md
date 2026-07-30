@@ -19,5 +19,5 @@ I am a student at the University of Information Technology (UIT), with a strong 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhreal163&layout=compact&theme=tokyonight)
 
 ### 📫 How to reach me
-*   **Email:** [danhreal163@gmail.com]
-*   **LinkedIn / Portfolio:** [https://guns.lol/drealr]
+*   **Email:** danhreal163@gmail.com
+
