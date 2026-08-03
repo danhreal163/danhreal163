@@ -20,7 +20,7 @@ I am a student at the University of Information Technology (UIT), with a strong 
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
 </p>
 ### 🏆 Certificates
-*   **Google AI Certificate (PDF):** [View and Download Certificate](https://github.com/danhreal163/danhreal163/blob/main/danhreal163/Coursera%200DJ1UC5GOKDR.pdf)
+*   **Google AI Certificate (PDF):** [View and Download Certificate](https://github.com/danhreal163/danhreal163/blob/main/Coursera%200DJ1UC5GOKDR.pdf)
 ### 📫 How to reach me
 *   **Email:** danhreal163@gmail.com
 
