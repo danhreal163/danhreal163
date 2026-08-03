@@ -17,7 +17,8 @@ I am a student at the University of Information Technology (UIT), with a strong 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danhreal163&show_icons=true&theme=tokyonight)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhreal163&layout=compact&theme=tokyonight)
-<a href="(https://github.com/danhreal163/danhreal163/blob/main/Coursera%200DJ1UC5GOKDR.pdf)">
+<br/>
+<a href="https://github.com/danhreal163/danhreal163/blob/main/Coursera%200DJ1UC5GOKDR.pdf">
   <img src="https://img.shields.io/badge/Google_AI_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Certificate" />
 </a>
 
