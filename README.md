@@ -25,7 +25,7 @@ I am a student at the University of Information Technology (UIT), with a strong 
 </br>
 ### 📫 How to reach me
 <p align="left">
-  <a href="mailto:danhreal163@gmail.com">
+  gmail: danhreal163@gmail.com
   </a>
  
 </p>
