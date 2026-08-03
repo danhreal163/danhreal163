@@ -26,7 +26,6 @@ I am a student at the University of Information Technology (UIT), with a strong 
 ### 📫 How to reach me
 <p align="left">
   <a href="mailto:danhreal163@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
  
 </p>
