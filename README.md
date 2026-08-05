@@ -1,19 +1,19 @@
 # 👋 Hi there, I'm Nguyen Huu Danh
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 I am a student at the University of Information Technology (UIT), with a strong focus on Integrated Circuit (IC) Design. I enjoy bridging the gap between low-level hardware logic and high-level software optimization.
 
 *   🔭 **Currently studying:** Advanced Data Structures & Algorithms and Digital Logic Design.
 *   🌱 **Currently learning:** Hardware Description Languages and improving my English communication.
 *   ⚡ **Interests:** Solving complex mathematical optimization problems, memory management, and exploring quantum computing fundamentals.
 
-### 🛠️ Basic Proficiency
+# 🛠️ Basic Proficiency
 *   **Languages:** C++, Verilog
 *   **Hardware Design & Simulation:** Quartus II, Visual Studio
 *   **Core Concepts:** Finite State Machines (FSM), Karnaugh Maps, Logic Circuit Optimization
 *   **Productivity:** GitHub Copilot, Cloud/AI Services
 
-### Languages and Tools 
+# Languages and Tools 
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" />
