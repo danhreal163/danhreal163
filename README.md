@@ -20,6 +20,7 @@ I am a student at the University of Information Technology (UIT), with a strong 
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
 </p>
 ### Certificate
+</p>
 <a href="https://github.com/danhreal163/danhreal163/blob/main/Coursera%200DJ1UC5GOKDR.pdf">
   <img src="https://img.shields.io/badge/Google_AI_Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Certificate" />
 </a>
