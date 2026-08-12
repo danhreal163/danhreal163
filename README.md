@@ -25,6 +25,11 @@ I am a student at the University of Information Technology (UIT), with a strong 
   <img src="https://img.shields.io/badge/Google_AI_Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Certificate" />
 </a>
 </br>
+</p>
+<a href="https://github.com/danhreal163/danhreal163/blob/main/Coursera%20OIYH1Q42NR8O.pdf">
+  <img src="https://img.shields.io/badge/AI for Brainstorming and Planning-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI for Brainstorming and Planning" />
+</a>
+</br>
 ### 📫 How to reach me
 
 * 📧 **Email:** [danhreal163@gmail.com](mailto:danhreal163@gmail.com)
