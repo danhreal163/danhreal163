@@ -11,7 +11,7 @@ I am a student at the University of Information Technology (UIT), with a strong 
 *   **Languages:** C++, Verilog
 *   **Hardware Design & Simulation:** Quartus II, Visual Studio
 *   **Core Concepts:** Finite State Machines (FSM), Karnaugh Maps, Logic Circuit Optimization
-*   **Productivity:** GitHub Copilot, Cloud/AI Services
+*   **Productivity:** GitHub Copilot
 
 ## Languages and Tools 
 <p align="left">
