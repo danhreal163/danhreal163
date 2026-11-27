@@ -32,6 +32,4 @@ I am a student at the University of Information Technology (UIT), with a strong 
 ### 📫 How to reach me
 
 * 📧 **Email:** [danhreal163@gmail.com](mailto:danhreal163@gmail.com)
-* 🌐 **Portfolio:** [guns.lol/danhreal163](https://guns.lol/danhreal163)
-* 🎮 **Steam:** [steamcommunity.com/id/danhreal163](https://steamcommunity.com/id/danhreal163)
 
